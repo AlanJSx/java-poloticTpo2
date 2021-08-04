@@ -1,0 +1,8 @@
+Datos de la Base de Datos MySQL:
+
+Nombre de la BD: tpo2int
+
+Usuario: tpo2integrador
+Contraseña:  tpo2integrador
+
+url: localhost:3306
